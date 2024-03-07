@@ -2,7 +2,7 @@ Aplicación de Plex dockerizada con Kubernetes, Helm y ArgoCD
 
 Descripción
 
-Esta aplicación consiste en tener tu propio "Netflix" donde podrás almacenar tus películas favoritas, series para ver cuando quieras e incluso armar tus playlists de música.
+Esta aplicación consiste en tener tu propio "Netflix" donde podrás almacenar tus películas y/o series e incluso crear tus playlists de música.
 
 Requisitos
 - Docker
